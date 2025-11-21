@@ -9,7 +9,7 @@ A lightweight network monitoring tool for Windows that shows real-time ping, sta
 ## 🛰️ What is Ping Monitor?
 Ping Monitor is a simple, fast Windows tool that allows users to:
 
-- ✔ Check live ping in real time  
+- ✔ Check live ping in real time
 - ✔ Detect lag spikes (marked in red)  
 - ✔ Monitor two servers together  
 - ✔ Calculate stability score  
